@@ -451,6 +451,20 @@ h1.name {
     
 }
 
+.Book-Text-02 {
+
+    position: relative;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: right;
+    margin-bottom: -7rem;
+    margin-right: -3rem;
+    color: #c50000;
+    z-index: 99999;
+
+    
+}
+
 .book-img img {
     position: relative;
     align-items: center;
