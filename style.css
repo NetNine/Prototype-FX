@@ -32,7 +32,7 @@ body {
     position: none;
     align-items: center;
     filter: blur(15px);
-    z-index: -999;
+    z-index: 999;
 }
 
 .cursor {
@@ -40,7 +40,7 @@ body {
     margin-top: -16px;
     margin-left: -18px;
     align-items: center;
-    z-index: -999;
+    z-index: 999;
     background: rgb(0, 225, 255);
     width: 50px;
     height: 50px;
@@ -470,6 +470,7 @@ h1.name {
     align-items: center;
     justify-content: center;
     margin-left: 3.4rem;  
+    z-index: -999;
 
 }
 
